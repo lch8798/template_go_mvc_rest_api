@@ -1,1 +1,1 @@
-# template_go_rest_api
+# template_go_mvc
